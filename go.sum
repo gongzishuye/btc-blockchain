@@ -1,0 +1,6 @@
+github.com/boltdb/bolt v1.3.1 h1:JQmyP4ZBrce+ZQu0dY660FMfatumYDLun9hBCUVIkF4=
+github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
+github.com/zyb2016/gonow v1.0.1 h1:vxk+Ug0/y06ellqPIQJda0lr4n8cjyQ5MxEbAaAlwY0=
+github.com/zyb2016/gonow v1.0.1/go.mod h1:6sGR2VWGwvlvxpwC/WEwc3CsGservZm4NMMCLyG2qc4=
+golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
+golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
